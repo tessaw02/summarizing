@@ -1,6 +1,6 @@
 Package: summarizing
 Title: Simple summarizing
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Tessa", "Woodside", , "tessaw02@student.ubc.ca", role = c("aut", "cre"))
 Description: The package contains functions for simple summarization of large datasets.
