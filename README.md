@@ -17,7 +17,7 @@ You can install the development version of summarizing like so:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github(tessawoodside/summarizing)
+devtools::install_github(tessaw02/summarizing)
 ```
 
 ## Example
